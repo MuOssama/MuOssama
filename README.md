@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Embedded systems and mechatronics.
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me -> Email: mustaphaossama2000@gmail.com
--                    -> Linkedin: https://www.linkedin.com/in/mustapha-ossama-21aa72219/ 
+- 📫 How to reach me -> Linkedin: https://www.linkedin.com/in/mustapha-ossama-21aa72219/ 
 
