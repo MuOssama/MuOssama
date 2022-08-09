@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuOssama
+- 👋 Hi, I’m @MuOssama Ossama
 - 👀 I’m interested in coding with python, c, and c++.
 - 🌱 I’m currently learning Embedded systems and mechatronics.
 - 💞️ I’m looking to collaborate on shareing: Embedded systems programming/knowledge. 
