@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuOssama Ossama
 - 👀 I’m interested in coding with python, c, and c++.
-- 🌱 I’m currently learning Embedded systems and mechatronics.
+- 🌱 I’m currently learning Embedded systems and Mechatronics.
 - 💞️ I’m looking to collaborate on shareing: Embedded systems programming/knowledge. 
 - 💞️ I’m looking to collaborate on shareing: HackerRack Model Answers of C programming challenges. 
 - 📫 How to reach me -> Email: mustaphaossama2000@gmail.com
