@@ -1,8 +1,8 @@
 # Hi, I’m Mustapha Ossama 👋
 
 - 👀 I’m interested in coding with Python, C, and C++.
-- 🌱 I’m currently learning Embedded systems and Mechatronics.
-- 💞️ I’m looking to collaborate on sharing Embedded systems programming/knowledge.
+- 🌱 I’m Embedded systems and Mechatronics Engineer.
+- 💞️ I’m sharing Embedded systems programming/knowledge.
 - 💞️ I’m collaborating on sharing HackerRank Model Answers of C programming challenges.
 - 💞️ I’m collaborating on sharing CodeForces Competitive Programming Model Answers in C.
 - 📫 How to reach me:
