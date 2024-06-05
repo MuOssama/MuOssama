@@ -1,7 +1,7 @@
 # Hi, I’m Mustapha Ossama 👋
 
 - 👀 I’m interested in coding with Python, C, and C++.
-- 🌱 I’m Embedded systems and Mechatronics Engineer.
+- 🌱 I’m an Embedded Systems and Mechatronics Engineer.
 - 💞️ I’m sharing Embedded systems programming/knowledge.
 - 💞️ I’m collaborating on sharing HackerRank Model Answers of C programming challenges.
 - 💞️ I’m collaborating on sharing CodeForces Competitive Programming Model Answers in C.
@@ -25,16 +25,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muossama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muossama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/muossama/count.svg?"  />
+  <span>profile visits</span>
 </div>
-
-###
-
-
