@@ -26,5 +26,5 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muossama/count.svg?"  />
-  <span>profile visits</span>
+  <span style="font-size: 24px; font-weight: bold; text-shadow: 2px 2px 4px #000000;">profile visits</span>
 </div>
