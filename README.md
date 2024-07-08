@@ -2,7 +2,7 @@
  
 - 👀 I’m interested in coding with Python, C, and C++.
 - 🌱 I’m an Embedded Systems and Mechatronics Engineer.  
-- 💞️ I’m sharing Embedded systems programming/knowledge.
+- 💞️ I’m sharing Embedded systems programming/knowledge. 
 - 💞️ I’m collaborating on sharing HackerRank Model Answers of C programming challenges.
 - 💞️ I’m collaborating on sharing CodeForces Competitive Programming Model Answers in C. 
 - 📫 How to reach me:
