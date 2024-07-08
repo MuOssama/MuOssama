@@ -4,7 +4,7 @@
 - 🌱 I’m an Embedded Systems and Mechatronics Engineer.  
 - 💞️ I’m sharing Embedded systems programming/knowledge.
 - 💞️ I’m collaborating on sharing HackerRank Model Answers of C programming challenges.
-- 💞️ I’m collaborating on sharing CodeForces Competitive Programming Model Answers in C.
+- 💞️ I’m collaborating on sharing CodeForces Competitive Programming Model Answers in C. 
 - 📫 How to reach me:
   - Email: mustaphaossama2000@gmail.com
   - Linkedin: [mustapha-ossama](https://www.linkedin.com/in/mustapha-ossama-21aa72219/)
