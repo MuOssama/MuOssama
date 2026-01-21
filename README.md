@@ -23,5 +23,6 @@
 </div>
 
 ###
-
+<div allign="center">
 ![Profile views](https://komarev.com/ghpvc/?username=muossama&style=flat-square&color=blue)
+</div>dev>
